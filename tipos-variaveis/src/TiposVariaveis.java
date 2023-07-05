@@ -9,8 +9,7 @@ public class TiposVariaveis {
 		int numero = 5;
 
 		/*
-		 * na linha abaixo iremos alterar o valor do varíavel para 10 observe que o tipo
-		 * não é mais necessário, pois a variável já foi declarada anteriormente
+		 * na linha abaixo iremos alterar o valor do varíavel para 10 observe que o tip
 		 */
 		numero = 10;
 
